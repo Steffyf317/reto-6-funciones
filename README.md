@@ -1,4 +1,4 @@
-# reto 6: funciones
+# Reto 6: funciones
 ## 1. Dada la figura, hallar el área superficial y el volumen de la misma
 ### Con una función y valores preestablecidos
 [![imagen1.png](https://i.postimg.cc/zGDk9SdM/imagen1.png)](https://postimg.cc/vcj9n9wL)
